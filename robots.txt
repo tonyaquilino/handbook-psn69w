@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonyaquilino.github.io/handbook-psn69w/sitemap.xml
